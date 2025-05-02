@@ -1,0 +1,190 @@
+Timestamp,Tipo,Threads,Senha,Tempo(s)
+Sun Apr 20 23:30:42 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.858930
+Sun Apr 20 23:30:42 2025,1 threads,1,"ab3 te4F r9dxA ",0.707456
+Sun Apr 20 23:30:42 2025,2 threads,2,"ab3 te4F r9dxA ",0.307676
+Sun Apr 20 23:30:42 2025,4 threads,4,"ab3 te4F r9dxA ",0.187390
+Sun Apr 20 23:30:42 2025,8 threads,8,"ab3 te4F r9dxA ",0.101128
+Sun Apr 20 23:30:42 2025,16 threads,16,"ab3 te4F r9dxA ",0.065162
+Sun Apr 20 23:30:42 2025,24 threads,24,"ab3 te4F r9dxA ",0.057834
+Sun Apr 20 23:34:08 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.834123
+Sun Apr 20 23:34:08 2025,1 threads,1,"ab3 te4F r9dxA ",0.685115
+Sun Apr 20 23:34:08 2025,2 threads,2,"ab3 te4F r9dxA ",0.297512
+Sun Apr 20 23:34:08 2025,4 threads,4,"ab3 te4F r9dxA ",0.192534
+Sun Apr 20 23:34:08 2025,8 threads,8,"ab3 te4F r9dxA ",0.093851
+Sun Apr 20 23:34:08 2025,16 threads,16,"ab3 te4F r9dxA ",0.057673
+Sun Apr 20 23:34:08 2025,24 threads,24,"ab3 te4F r9dxA ",0.043165
+Sun Apr 20 23:34:18 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.848739
+Sun Apr 20 23:34:18 2025,1 threads,1,"ab3 te4F r9dxA ",0.687125
+Sun Apr 20 23:34:18 2025,2 threads,2,"ab3 te4F r9dxA ",0.291666
+Sun Apr 20 23:34:18 2025,4 threads,4,"ab3 te4F r9dxA ",0.183613
+Sun Apr 20 23:34:18 2025,8 threads,8,"ab3 te4F r9dxA ",0.091953
+Sun Apr 20 23:34:18 2025,16 threads,16,"ab3 te4F r9dxA ",0.053836
+Sun Apr 20 23:34:18 2025,24 threads,24,"ab3 te4F r9dxA ",0.042984
+Sun Apr 20 23:34:21 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.845866
+Sun Apr 20 23:34:21 2025,1 threads,1,"ab3 te4F r9dxA ",0.688078
+Sun Apr 20 23:34:21 2025,2 threads,2,"ab3 te4F r9dxA ",0.296117
+Sun Apr 20 23:34:21 2025,4 threads,4,"ab3 te4F r9dxA ",0.182220
+Sun Apr 20 23:34:21 2025,8 threads,8,"ab3 te4F r9dxA ",0.099987
+Sun Apr 20 23:34:21 2025,16 threads,16,"ab3 te4F r9dxA ",0.062865
+Sun Apr 20 23:34:21 2025,24 threads,24,"ab3 te4F r9dxA ",0.043734
+Sun Apr 20 23:34:25 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.842440
+Sun Apr 20 23:34:25 2025,1 threads,1,"ab3 te4F r9dxA ",0.680129
+Sun Apr 20 23:34:25 2025,2 threads,2,"ab3 te4F r9dxA ",0.295691
+Sun Apr 20 23:34:25 2025,4 threads,4,"ab3 te4F r9dxA ",0.179314
+Sun Apr 20 23:34:25 2025,8 threads,8,"ab3 te4F r9dxA ",0.095362
+Sun Apr 20 23:34:25 2025,16 threads,16,"ab3 te4F r9dxA ",0.060143
+Sun Apr 20 23:34:25 2025,24 threads,24,"ab3 te4F r9dxA ",0.044043
+Sun Apr 20 23:34:30 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.850090
+Sun Apr 20 23:34:30 2025,1 threads,1,"ab3 te4F r9dxA ",0.675388
+Sun Apr 20 23:34:30 2025,2 threads,2,"ab3 te4F r9dxA ",0.299197
+Sun Apr 20 23:34:30 2025,4 threads,4,"ab3 te4F r9dxA ",0.180386
+Sun Apr 20 23:34:30 2025,8 threads,8,"ab3 te4F r9dxA ",0.092139
+Sun Apr 20 23:34:30 2025,16 threads,16,"ab3 te4F r9dxA ",0.063726
+Sun Apr 20 23:34:30 2025,24 threads,24,"ab3 te4F r9dxA ",0.043568
+Sun Apr 20 23:36:30 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.836988
+Sun Apr 20 23:36:30 2025,1 threads,1,"ab3 te4F r9dxA ",0.688965
+Sun Apr 20 23:36:30 2025,2 threads,2,"ab3 te4F r9dxA ",0.301863
+Sun Apr 20 23:36:30 2025,4 threads,4,"ab3 te4F r9dxA ",0.211048
+Sun Apr 20 23:36:30 2025,8 threads,8,"ab3 te4F r9dxA ",0.094307
+Sun Apr 20 23:36:30 2025,16 threads,16,"ab3 te4F r9dxA ",0.067301
+Sun Apr 20 23:36:30 2025,24 threads,24,"ab3 te4F r9dxA ",0.055242
+Sun Apr 20 23:36:33 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.845232
+Sun Apr 20 23:36:33 2025,1 threads,1,"ab3 te4F r9dxA ",0.690788
+Sun Apr 20 23:36:33 2025,2 threads,2,"ab3 te4F r9dxA ",0.298191
+Sun Apr 20 23:36:33 2025,4 threads,4,"ab3 te4F r9dxA ",0.184907
+Sun Apr 20 23:36:33 2025,8 threads,8,"ab3 te4F r9dxA ",0.094187
+Sun Apr 20 23:36:33 2025,16 threads,16,"ab3 te4F r9dxA ",0.056282
+Sun Apr 20 23:36:33 2025,24 threads,24,"ab3 te4F r9dxA ",0.043223
+Sun Apr 20 23:36:37 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.834587
+Sun Apr 20 23:36:37 2025,1 threads,1,"ab3 te4F r9dxA ",0.689815
+Sun Apr 20 23:36:37 2025,2 threads,2,"ab3 te4F r9dxA ",0.294385
+Sun Apr 20 23:36:37 2025,4 threads,4,"ab3 te4F r9dxA ",0.187348
+Sun Apr 20 23:36:37 2025,8 threads,8,"ab3 te4F r9dxA ",0.096369
+Sun Apr 20 23:36:37 2025,16 threads,16,"ab3 te4F r9dxA ",0.056817
+Sun Apr 20 23:36:37 2025,24 threads,24,"ab3 te4F r9dxA ",0.102780
+Sun Apr 20 23:51:14 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.844761
+Sun Apr 20 23:51:14 2025,1 threads,1,"ab3 te4F r9dxA ",0.689404
+Sun Apr 20 23:51:14 2025,2 threads,2,"ab3 te4F r9dxA ",0.292224
+Sun Apr 20 23:51:14 2025,4 threads,4,"ab3 te4F r9dxA ",0.189542
+Sun Apr 20 23:51:14 2025,8 threads,8,"ab3 te4F r9dxA ",0.092432
+Sun Apr 20 23:51:14 2025,16 threads,16,"ab3 te4F r9dxA ",0.063992
+Sun Apr 20 23:51:14 2025,24 threads,24,"ab3 te4F r9dxA ",0.045391
+Mon Apr 21 00:03:46 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.833968
+Mon Apr 21 00:03:46 2025,1 threads,1,"ab3 te4F r9dxA ",0.681148
+Mon Apr 21 00:03:46 2025,2 threads,2,"ab3 te4F r9dxA ",0.297336
+Mon Apr 21 00:03:46 2025,4 threads,4,"ab3 te4F r9dxA ",0.179364
+Mon Apr 21 00:03:46 2025,8 threads,8,"ab3 te4F r9dxA ",0.096436
+Mon Apr 21 00:03:46 2025,16 threads,16,"ab3 te4F r9dxA ",0.057036
+Mon Apr 21 00:03:46 2025,24 threads,24,"ab3 te4F r9dxA ",0.043432
+Sat Apr 26 17:08:38 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.838290
+Sat Apr 26 17:08:38 2025,1 threads,1,"ab3 te4F r9dxA ",0.688501
+Sat Apr 26 17:08:38 2025,2 threads,2,"ab3 te4F r9dxA ",0.300876
+Sat Apr 26 17:08:38 2025,4 threads,4,"ab3 te4F r9dxA ",0.184143
+Sat Apr 26 17:08:38 2025,8 threads,8,"ab3 te4F r9dxA ",0.095382
+Sat Apr 26 17:08:38 2025,16 threads,16,"ab3 te4F r9dxA ",0.056814
+Sat Apr 26 17:08:38 2025,24 threads,24,"ab3 te4F r9dxA ",0.060710
+Sat Apr 26 17:09:48 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.844464
+Sat Apr 26 17:09:48 2025,1 threads,1,"ab3 te4F r9dxA ",0.700863
+Sat Apr 26 17:09:48 2025,2 threads,2,"ab3 te4F r9dxA ",0.291205
+Sat Apr 26 17:09:48 2025,4 threads,4,"ab3 te4F r9dxA ",0.177249
+Sat Apr 26 17:09:48 2025,8 threads,8,"ab3 te4F r9dxA ",0.102667
+Sat Apr 26 17:09:48 2025,16 threads,16,"ab3 te4F r9dxA ",0.068648
+Sat Apr 26 17:09:48 2025,24 threads,24,"ab3 te4F r9dxA ",0.042799
+Sat Apr 26 17:09:58 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.852858
+Sat Apr 26 17:09:58 2025,1 threads,1,"ab3 te4F r9dxA ",0.681979
+Sat Apr 26 17:09:58 2025,2 threads,2,"ab3 te4F r9dxA ",0.306798
+Sat Apr 26 17:09:58 2025,4 threads,4,"ab3 te4F r9dxA ",0.188829
+Sat Apr 26 17:09:58 2025,8 threads,8,"ab3 te4F r9dxA ",0.090934
+Sat Apr 26 17:09:58 2025,16 threads,16,"ab3 te4F r9dxA ",0.058650
+Sat Apr 26 17:09:58 2025,24 threads,24,"ab3 te4F r9dxA ",0.042976
+Sat Apr 26 17:10:35 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.831536
+Sat Apr 26 17:10:35 2025,1 threads,1,"ab3 te4F r9dxA ",0.686340
+Sat Apr 26 17:10:35 2025,2 threads,2,"ab3 te4F r9dxA ",0.297680
+Sat Apr 26 17:10:35 2025,4 threads,4,"ab3 te4F r9dxA ",0.183446
+Sat Apr 26 17:10:35 2025,8 threads,8,"ab3 te4F r9dxA ",0.091528
+Sat Apr 26 17:10:35 2025,16 threads,16,"ab3 te4F r9dxA ",0.057624
+Sat Apr 26 17:10:35 2025,24 threads,24,"ab3 te4F r9dxA ",0.043563
+Sat Apr 26 17:11:23 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.839235
+Sat Apr 26 17:11:23 2025,1 threads,1,"ab3 te4F r9dxA ",0.677686
+Sat Apr 26 17:11:23 2025,2 threads,2,"ab3 te4F r9dxA ",0.296241
+Sat Apr 26 17:11:23 2025,4 threads,4,"ab3 te4F r9dxA ",0.187140
+Sat Apr 26 17:11:23 2025,8 threads,8,"ab3 te4F r9dxA ",0.088902
+Sat Apr 26 17:11:23 2025,16 threads,16,"ab3 te4F r9dxA ",0.064804
+Sat Apr 26 17:11:23 2025,24 threads,24,"ab3 te4F r9dxA ",0.044186
+Sat Apr 26 17:11:28 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.845431
+Sat Apr 26 17:11:28 2025,1 threads,1,"ab3 te4F r9dxA ",0.679450
+Sat Apr 26 17:11:28 2025,2 threads,2,"ab3 te4F r9dxA ",0.291446
+Sat Apr 26 17:11:28 2025,4 threads,4,"ab3 te4F r9dxA ",0.182049
+Sat Apr 26 17:11:28 2025,8 threads,8,"ab3 te4F r9dxA ",0.093319
+Sat Apr 26 17:11:28 2025,16 threads,16,"ab3 te4F r9dxA ",0.057976
+Sat Apr 26 17:11:28 2025,24 threads,24,"ab3 te4F r9dxA ",0.043080
+Sat Apr 26 17:11:32 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.841804
+Sat Apr 26 17:11:32 2025,1 threads,1,"ab3 te4F r9dxA ",0.671219
+Sat Apr 26 17:11:32 2025,2 threads,2,"ab3 te4F r9dxA ",0.296437
+Sat Apr 26 17:11:32 2025,4 threads,4,"ab3 te4F r9dxA ",0.181157
+Sat Apr 26 17:11:32 2025,8 threads,8,"ab3 te4F r9dxA ",0.088999
+Sat Apr 26 17:11:32 2025,16 threads,16,"ab3 te4F r9dxA ",0.065987
+Sat Apr 26 17:11:32 2025,24 threads,24,"ab3 te4F r9dxA ",0.045957
+Sat Apr 26 17:11:36 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.838149
+Sat Apr 26 17:11:36 2025,1 threads,1,"ab3 te4F r9dxA ",0.685805
+Sat Apr 26 17:11:36 2025,2 threads,2,"ab3 te4F r9dxA ",0.296069
+Sat Apr 26 17:11:36 2025,4 threads,4,"ab3 te4F r9dxA ",0.187407
+Sat Apr 26 17:11:36 2025,8 threads,8,"ab3 te4F r9dxA ",0.093286
+Sat Apr 26 17:11:36 2025,16 threads,16,"ab3 te4F r9dxA ",0.056934
+Sat Apr 26 17:11:36 2025,24 threads,24,"ab3 te4F r9dxA ",0.044614
+Sat Apr 26 17:12:35 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.842616
+Sat Apr 26 17:12:35 2025,1 threads,1,"ab3 te4F r9dxA ",0.682055
+Sat Apr 26 17:12:35 2025,2 threads,2,"ab3 te4F r9dxA ",0.299265
+Sat Apr 26 17:12:35 2025,4 threads,4,"ab3 te4F r9dxA ",0.188258
+Sat Apr 26 17:12:35 2025,8 threads,8,"ab3 te4F r9dxA ",0.099527
+Sat Apr 26 17:12:35 2025,16 threads,16,"ab3 te4F r9dxA ",0.055503
+Sat Apr 26 17:12:35 2025,24 threads,24,"ab3 te4F r9dxA ",0.043141
+Sat Apr 26 17:12:41 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.835670
+Sat Apr 26 17:12:41 2025,1 threads,1,"ab3 te4F r9dxA ",0.683563
+Sat Apr 26 17:12:41 2025,2 threads,2,"ab3 te4F r9dxA ",0.295288
+Sat Apr 26 17:12:41 2025,4 threads,4,"ab3 te4F r9dxA ",0.183239
+Sat Apr 26 17:12:41 2025,8 threads,8,"ab3 te4F r9dxA ",0.093349
+Sat Apr 26 17:12:41 2025,16 threads,16,"ab3 te4F r9dxA ",0.061028
+Sat Apr 26 17:12:41 2025,24 threads,24,"ab3 te4F r9dxA ",0.044114
+Sat Apr 26 17:13:20 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.843448
+Sat Apr 26 17:13:20 2025,1 threads,1,"ab3 te4F r9dxA ",0.682081
+Sat Apr 26 17:13:20 2025,2 threads,2,"ab3 te4F r9dxA ",0.302609
+Sat Apr 26 17:13:20 2025,4 threads,4,"ab3 te4F r9dxA ",0.179252
+Sat Apr 26 17:13:20 2025,8 threads,8,"ab3 te4F r9dxA ",0.095157
+Sat Apr 26 17:13:20 2025,16 threads,16,"ab3 te4F r9dxA ",0.065997
+Sat Apr 26 17:13:20 2025,24 threads,24,"ab3 te4F r9dxA ",0.042902
+Sat Apr 26 17:13:26 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.842014
+Sat Apr 26 17:13:26 2025,1 threads,1,"ab3 te4F r9dxA ",0.684536
+Sat Apr 26 17:13:26 2025,2 threads,2,"ab3 te4F r9dxA ",0.309758
+Sat Apr 26 17:13:26 2025,4 threads,4,"ab3 te4F r9dxA ",0.195060
+Sat Apr 26 17:13:26 2025,8 threads,8,"ab3 te4F r9dxA ",0.093115
+Sat Apr 26 17:13:26 2025,16 threads,16,"ab3 te4F r9dxA ",0.065909
+Sat Apr 26 17:13:26 2025,24 threads,24,"ab3 te4F r9dxA ",0.043055
+Sat Apr 26 17:13:30 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.834684
+Sat Apr 26 17:13:30 2025,1 threads,1,"ab3 te4F r9dxA ",0.672450
+Sat Apr 26 17:13:30 2025,2 threads,2,"ab3 te4F r9dxA ",0.296907
+Sat Apr 26 17:13:30 2025,4 threads,4,"ab3 te4F r9dxA ",0.179410
+Sat Apr 26 17:13:30 2025,8 threads,8,"ab3 te4F r9dxA ",0.091994
+Sat Apr 26 17:13:30 2025,16 threads,16,"ab3 te4F r9dxA ",0.064209
+Sat Apr 26 17:13:30 2025,24 threads,24,"ab3 te4F r9dxA ",0.043224
+Sat Apr 26 17:16:45 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.841132
+Sat Apr 26 17:16:45 2025,1 threads,1,"ab3 te4F r9dxA ",0.687552
+Sat Apr 26 17:16:45 2025,2 threads,2,"ab3 te4F r9dxA ",0.300773
+Sat Apr 26 17:16:45 2025,4 threads,4,"ab3 te4F r9dxA ",0.184067
+Sat Apr 26 17:16:45 2025,8 threads,8,"ab3 te4F r9dxA ",0.098986
+Sat Apr 26 17:16:45 2025,16 threads,16,"ab3 te4F r9dxA ",0.067947
+Sat Apr 26 17:16:45 2025,24 threads,24,"ab3 te4F r9dxA ",0.043602
+Sat Apr 26 17:16:50 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.851270
+Sat Apr 26 17:16:50 2025,1 threads,1,"ab3 te4F r9dxA ",0.693151
+Sat Apr 26 17:16:50 2025,2 threads,2,"ab3 te4F r9dxA ",0.300465
+Sat Apr 26 17:16:50 2025,4 threads,4,"ab3 te4F r9dxA ",0.181412
+Sat Apr 26 17:16:50 2025,8 threads,8,"ab3 te4F r9dxA ",0.093899
+Sat Apr 26 17:16:50 2025,16 threads,16,"ab3 te4F r9dxA ",0.064720
+Sat Apr 26 17:16:50 2025,24 threads,24,"ab3 te4F r9dxA ",0.043951
+Sat Apr 26 17:16:55 2025,Sequencial,N/A,"ab3 te4F r9dxA ",0.833585
+Sat Apr 26 17:16:55 2025,1 threads,1,"ab3 te4F r9dxA ",0.692778
+Sat Apr 26 17:16:55 2025,2 threads,2,"ab3 te4F r9dxA ",0.307232
+Sat Apr 26 17:16:55 2025,4 threads,4,"ab3 te4F r9dxA ",0.191423
+Sat Apr 26 17:16:55 2025,8 threads,8,"ab3 te4F r9dxA ",0.091351
+Sat Apr 26 17:16:55 2025,16 threads,16,"ab3 te4F r9dxA ",0.063823
+Sat Apr 26 17:16:55 2025,24 threads,24,"ab3 te4F r9dxA ",0.043407
